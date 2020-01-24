@@ -4,4 +4,4 @@
 
 You have all the instructions on the post:
 
-**https://docs.devopstech.org**
+**https://docs.devopstech.org/gcloud/gs-backup/**
