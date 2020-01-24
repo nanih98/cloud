@@ -1,7 +1,7 @@
 #! /bin/bash
 
 
-#MAINTAINER "Daniel Cascales Romero" <daniel.cascales@ackstorm.com>
+#MAINTAINER "Daniel Cascales Romero" <devopstech253@gmail.com>
 
 LOGFILE="/var/log/gs-backup-$(date +'%Y-%m-%d').log";
 SOURCE="/tmp"; # seperar directorios si hay m�s de uno
